@@ -20,7 +20,7 @@ ________________________________________
 •	PC1 → Switch1 → Router (FastEthernet0/1)<br>
 (Insert screenshot of your Packet Tracer setup here)<br>
 <img width="1917" height="1067" alt="Screenshot 2026-10-27 180534" src="https://github.com/user-attachments/assets/1eada89d-a637-42a5-b2d3-bbde4de71411" />
-<img width="1907" height="1078" alt="image" src="https://github.com/user-attachments/assets/121d6e52-5c7c-4031-a69a-b9f6c6306883" />
+
 
 ________________________________________
 # IP Addressing Table
